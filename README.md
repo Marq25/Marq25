@@ -7,7 +7,7 @@ Hi, I'm **Marq**.
 -->
 
 - 🔭 I’m currently working on my game project.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python🐍.
 - 📫 How to reach me: **.marq_** on discord.
 
 ---
