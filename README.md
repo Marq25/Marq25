@@ -7,8 +7,26 @@ Hi, I'm **Marq**.
 -->
 
 - 🔭 I’m currently working on my game project.
-- 🌱 I’m currently learning Godot.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: **.marq_** on discord.
+
+---
+
+<details open>
+<summary>SKILLS</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| C#        |
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+---
+> Beer ist immer feucht.
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
