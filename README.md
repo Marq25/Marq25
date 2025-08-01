@@ -1,29 +1,14 @@
 ## Hi there 👋
 
 ## About me
-Hi, I'm Marq.
-**Marq25/Marq25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Hi, I'm **Marq**.
 <!--
-asd
+**Marq25/Marq25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5b97922f-9c72-4d35-8267-fb16f8901e17">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5b97922f-9c72-4d35-8267-fb16f8901e17">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/5b97922f-9c72-4d35-8267-fb16f8901e17">
-</picture>
+- 🔭 I’m currently working on my game project.
+- 🌱 I’m currently learning Godot.
+- 📫 How to reach me: **.marq_** on discord.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
