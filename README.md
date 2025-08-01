@@ -15,11 +15,12 @@ Hi, I'm **Marq**.
 <details open>
 <summary>SKILLS</summary>
   
-| Rank | Languages |
-|-----:|-----------|
-|     1| C#        |
-|     2| Python    |
-|     3| SQL       |
+| Rank | Languages | Level |
+|-----:|-----------|-------|
+|     1| C#        | ◻◻◻◻◼ |
+|     2| Python    | ◻◻◻◼◼ |
+|     3| MYSQL     | ◻◻◻◼◼ |
+|     4| JavaScript| ◻◼◼◼◼ |
 
 </details>
 
